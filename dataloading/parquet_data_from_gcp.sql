@@ -1,3 +1,5 @@
+--- copy the data from https://www.kaggle.com/tbierhance/hm-fashion-recommendation-parquet or sample customer file is avilable at dataloading parquet download and move that file to gcp and provide the grants for the snowflake.
+
 -- storage integration creation
 
 create or replace storage integration hm_customers_storage
